@@ -1,0 +1,87 @@
+body
+{
+	font-size:12px;
+	font-family:Verdana;
+}
+
+h1,h2,h3,h4,h5,h6
+{
+color:#4FA6B2;
+}
+
+#post_lst
+{
+position: relative;
+width:100%;
+margin:0px;
+padding:0px;
+}
+
+#post_lst li{
+list-style:none;
+padding:5px;
+}
+
+#post_lst li a,#post_lst li a:link{
+text-decoration:none;
+color:#EB9328;
+}
+
+#post_lst li:hover{
+background-color:#FFF5DC;
+}
+#admin_menu {
+position: relative;
+width: 100%;
+background-color: white;
+padding: 10px;
+overflow: hidden;
+
+}
+#admin_menu li {
+float: left;
+list-style: none;
+}
+#admin_menu li.backLava {
+
+background-color:#FFD699;
+width: 9px;
+z-index: 8;
+position: absolute;
+}
+#admin_menu li a {
+font: bold 14px arial;
+text-decoration: none;
+color: #4FA6B2;
+outline: none;
+text-align: center;
+padding: 5px 10px;
+text-transform: uppercase;
+letter-spacing: 0;
+z-index: 10;
+display: block;
+float: left;
+position: relative;
+overflow: hidden;
+margin: auto 10px;
+}
+
+form.cmxform label.error, label.error {
+	/* remove the next line when you have trouble in IE6 with labels in list */
+	color: red;
+	font-style: italic
+}
+
+form.cmxform table {
+	font-size:10px;
+	font-family:Verdana,Arial;
+	
+}
+
+footer
+{
+display:block;
+font-size:8px;
+color:#4FA6B2;
+padding-top:5px;
+}

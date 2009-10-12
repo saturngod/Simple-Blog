@@ -1,0 +1,111 @@
+body{
+	font-family:Verdana,Arial;
+	font-size:10px;	
+}
+
+a{
+	text-decoration:none;
+	font-size:12px;
+}
+
+h1,h2,h3,h4,h5,h6
+{
+	color:#4FA6B2;
+}
+
+.meta
+{
+    color:#EB9328;
+    font-weight:700;
+}
+
+.meta a
+{
+   color:#EB9328;
+   text-decoration:underline;
+}
+
+.meta a:hover
+{
+   color:#EB9328;
+   border:1px dashed #FFF5DC;
+
+}
+
+.comment
+{
+    padding-top:10px;
+    border-bottom:1px dashed #FFD699;
+}
+
+#commentForm
+{
+    padding-top:10px;
+    
+}
+
+form.cmxform label.error, label.error {
+	/* remove the next line when you have trouble in IE6 with labels in list */
+	color: red;
+	font-style: italic
+}
+
+form.cmxform table {
+	font-size:10px;
+	font-family:Verdana,Arial;
+	
+}
+
+input {	border: 1px solid black; }
+input.checkbox { border: none }
+input:focus { border: 1px dotted black; }
+input.error { border: 1px dotted red; }
+
+.err
+{
+color:red;
+border:1px #FF0000 solid;
+width:100px;
+padding:5px;
+text-align:center;
+background:#FFAAAA;
+margin-bottom:4px;
+}
+
+#home_menu {
+position: relative;
+width: 100%;
+background-color: white;
+padding: 10px;
+padding-left:0px;
+overflow: hidden;
+
+}
+
+#home_menu li {
+float: left;
+list-style: none;
+}
+#home_menu li.backLava {
+
+background-color:#FFD699;
+width: 9px;
+z-index: 8;
+position: absolute;
+}
+#home_menu li a {
+font: bold 14px arial;
+text-decoration: none;
+color: #4FA6B2;
+outline: none;
+text-align: center;
+padding: 5px 10px;
+text-transform: uppercase;
+letter-spacing: 0;
+z-index: 10;
+display: block;
+float: left;
+position: relative;
+overflow: hidden;
+margin: auto 10px;
+}

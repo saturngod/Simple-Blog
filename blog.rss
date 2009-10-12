@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version='2.0'>
+<channel>
+<title>Simple Blog Engine Demo</title>
+<link>http://localhost/job</link>
+<description>Used CodeIgniter MVC</description>
+<lastBuildDate>Sep 27 2009 11:09:53</lastBuildDate>
+<language>en-us</language>
+<item>
+<title>TestTest</title>
+<link>http://localhost/job/home/view/16</link>
+<guid>http://localhost/job/home/view/16</guid>
+<pubDate>Sep 27 2009 11:09:39</pubDate>
+<description>TestTest</description>
+</item>/n<item>
+<title>TestTest</title>
+<link>http://localhost/job/home/view/14</link>
+<guid>http://localhost/job/home/view/14</guid>
+<pubDate>Sep 27 2009 10:09:22</pubDate>
+<description>RSS testRSS test</description>
+</item>/n<item>
+<title>SimpleSimple</title>
+<link>http://localhost/job/home/view/10</link>
+<guid>http://localhost/job/home/view/10</guid>
+<pubDate>Sep 27 2009 10:09:38</pubDate>
+<description>This is &lt;span style="font-weight: bold;">GUI editor&lt;/span>. &lt;big>&lt;big>&lt;big>jwysiwyg&lt;/big>&lt;/big>&lt;/big> editor&lt;br>&lt;br>my blog is &lt;a href="http://en.saturngod.net">here&lt;/a>.This is &lt;span style="font-weight: bold;"&gt;GUI editor&lt;/span&gt;. &lt;big&gt;&lt;big&gt;&lt;big&gt;jwysiwyg&lt;/big&gt;&lt;/big&gt;&lt;/big&gt; editor&lt;br&gt;&lt;br&gt;my blog is &lt;a href="http://en.saturngod.net"&gt;here&lt;/a&gt;.</description>
+</item>/n<item>
+<title>Another PostAnother Post</title>
+<link>http://localhost/job/home/view/9</link>
+<guid>http://localhost/job/home/view/9</guid>
+<pubDate>Sep 27 2009 06:09:32</pubDate>
+<description>This is another postThis is another post</description>
+</item>/n<item>
+<title>This is simple postThis is simple post</title>
+<link>http://localhost/job/home/view/1</link>
+<guid>http://localhost/job/home/view/1</guid>
+<pubDate>Sep 25 2009 11:54:33</pubDate>
+<description>This is a body text. This is sample text. This is a body text. This is sample text. </description>
+</item>/n</channel>/n</rss>
