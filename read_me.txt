@@ -12,5 +12,8 @@ Config Site Name And Description in
  $config['site_description']="Used CodeIgniter MVC";
  $config['site_path']="C:\\xampp\\htdocs\\job";
  
+ -- Admin password
+ username: admin
+ password: adminpwd
  
  Written By Htain Lin Shwe using CodeIgniter PHP MVC Framework

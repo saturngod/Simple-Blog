@@ -11,7 +11,7 @@
 |	http://example.com/
 |
 */
-$config['base_url']	= "http://localhost/job";
+$config['base_url']	= "http://localhost/SMB";
 
 /*
 |--------------------------------------------------------------------------
